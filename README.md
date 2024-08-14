@@ -49,8 +49,7 @@ After training the Decision Tree Regressor models using both Scikit-Learn and Sn
 
 - **Inference Speed**: The Snap ML model also exhibited faster inference times, making it a more suitable choice for real-time or large-scale applications.
 
-- **Visualizations**: Various plots, such as feature importance and model predictions vs. actual tips, were generated to better understand the model's behavior. These visualizations can be found in the `results/` directory, along with the evaluation metrics.
-
+- **Visualizations**: Various plots, such as feature importance and model predictions vs. actual tips, were generated to better understand the model's behavior. 
 - **Comparison of Libraries**: The comparison between Scikit-Learn and Snap ML highlighted the performance benefits of using Snap ML for large datasets and high-performance computing environments.
 
 These results provide valuable insights into the effectiveness and efficiency of different machine learning libraries in handling regression tasks like taxi tip prediction.
